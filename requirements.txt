@@ -1,0 +1,10 @@
+web: gunicorn app:app
+flask
+gunicorn
+requests
+sklearn
+tensorflow
+datetime
+numpy
+matplotlib
+pandas
