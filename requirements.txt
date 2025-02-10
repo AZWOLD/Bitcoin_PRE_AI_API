@@ -6,4 +6,3 @@ datetime
 numpy
 matplotlib
 pandas
-web: gunicorn app:app;
