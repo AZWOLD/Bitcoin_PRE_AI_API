@@ -1,7 +1,6 @@
 flask
 gunicorn
 requests
-sklearn
 tensorflow
 datetime
 numpy
